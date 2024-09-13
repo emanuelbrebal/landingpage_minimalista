@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'roboto-r';
+    src: url(../components/fonts/Roboto-Regular.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'roboto-b';
+    src: url(../components/fonts/Roboto-Bold.ttf);
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'nexa-light';
+    src: url(../components/fonts/Nexa-ExtraLight.ttf);
+    font-weight: lighter;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'nexa-heavy';
+    src: url(../components/fonts/Nexa-Heavy.ttf);
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'coolvetica-rg';
+    src: url(../components/fonts/coolvetica\ rg.otf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'coolvetica-it';
+    src: url(../components/fonts/coolvetica\ rg\ it.otf);
+    font-weight: normal;
+    font-style: italic;
+}
