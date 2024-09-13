@@ -16,7 +16,7 @@ Projeto de uma Landing Page para praticar HTML e CSS, focando em design responsi
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/emanuelbrebal/landingpage_minimalista/new/main?filename=README.md
+   git clone https://github.com/emanuelbrebal/landingpage_minimalista
    ```
 2. Abra o `index.html` no navegador.
 
